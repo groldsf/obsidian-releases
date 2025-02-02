@@ -15043,10 +15043,10 @@
     "repo": "trung-tran-swe/obsidian-current-file-tags"
   },
   {
-    "id": "goal-tracker",
-    "name": "Goal Tracker",
-    "author": "Ben Rotholtz",
-    "description": "Track your goals with a calendar view",
-    "repo": "GizmoRay/obsidian-goal-tracker"  
+    "id": "checkbox-sync-plugin",
+    "name": "Checkbox Sync",
+    "author": "Grol",
+    "description": "Automatically checks the parent checkbox if all child checkboxes are completed, and unchecks it otherwise.",
+    "repo": "groldsf/obsidian_check_plugin"  
   }
-]
+ ]
